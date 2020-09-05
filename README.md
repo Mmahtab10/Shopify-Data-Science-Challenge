@@ -1,6 +1,6 @@
 # Shopify-Data-Science-Challenge
 
-Please read the Winter 2021 Data Science Intern Challenge first. 
+Please read the Winter 2021 Data Science Intern Challenge pdf first. 
 
 I have solved question 1 on shopify_ds_challenge.docx and shopify_ds_challenge.ipynb
 
