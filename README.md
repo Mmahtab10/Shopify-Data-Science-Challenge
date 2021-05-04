@@ -1,4 +1,4 @@
-# Fall 2021 Data Science Intern Challenge 
+# Fall 2021 Data Science Challenge 
 
 Please read the Fall 2021 Data Science Intern Challenge pdf first. 
 
