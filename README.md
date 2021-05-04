@@ -1,9 +1,9 @@
-# Shopify-Data-Science-Challenge
+# Fall 2021 Data Science Intern Challenge 
 
-Please read the Winter 2021 Data Science Intern Challenge pdf first. 
+Please read the Fall 2021 Data Science Intern Challenge pdf first. 
 
-I have solved question 1 on shopify_ds_challenge.docx and shopify_ds_challenge.ipynb
+Solution to question 1 is on *shopify_ds_challenge.docx* and *shopify_ds_challenge.ipynb*
 
-Question 2 is on shopify_ds_challenge.docx. You can access the database using the link on Winter 2021 Data Science Intern Challenge under question 2.
+Question 2 is on *shopify_ds_challenge.docx.* You can access the data set following the link on Fall 2021 Data Science Intern Challenge under question 2.
 
 Thank you! :)
